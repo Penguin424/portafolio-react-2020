@@ -1,0 +1,17 @@
+.navbar
+{
+  opacity: 0.9;
+}
+
+
+.navbar-brand
+{
+  font-size: 25px;
+}
+
+
+.twoPbr
+{
+  border-left: #FBF5EF solid 1px;
+  border-right: #FBF5EF solid 1px;  
+}

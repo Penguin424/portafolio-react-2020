@@ -1,0 +1,15 @@
+.containerAbout
+{
+    background-color:  #343a40;
+    opacity: 0.9;
+    border-radius: 2rem;
+    height: 100%;
+}
+
+@media (min-width: 756px) {
+  .text-start{font-size: 2rem;}
+}
+
+@media (max-width: 1026px) {
+  .text-start{font-size: 20px;}
+}
